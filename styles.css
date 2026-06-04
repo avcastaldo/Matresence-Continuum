@@ -430,6 +430,49 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+/* ====== FOUNDER STORY ====== */
+.founder {
+  padding: 5rem 0;
+  background-color: #fff;
+  border-bottom: 1px solid rgba(214, 204, 194, 0.3);
+}
+
+.founder__inner {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.founder__content {
+  text-align: center;
+}
+
+.founder__story {
+  margin-top: 2rem;
+}
+
+.founder__story p {
+  font-size: 1rem;
+  color: #5a5a5a;
+  line-height: 1.9;
+  margin-bottom: 1.25rem;
+}
+
+.founder__pivot {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.4rem;
+  color: #A3B18A;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.founder__signature {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.15rem;
+  font-style: italic;
+  color: #A3B18A;
+  margin-top: 1.5rem;
+}
+
 /* ====== SERVICES ====== */
 .services {
   padding: 5rem 0;
