@@ -555,6 +555,14 @@ h1, h2, h3, h4, h5, h6 {
   color: #6b6b6b;
 }
 
+.service-card__subprice {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 300;
+  color: #8a8a8a;
+  margin-top: 0.5rem;
+}
+
 .service-card__body {
   flex: 1;
 }
